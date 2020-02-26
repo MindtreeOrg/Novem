@@ -117,6 +117,7 @@ public class MenuDriven {
 				System.out.println("Found at index " + index);
 				break;
 			case 5:
+				System.out.println("Task completed");
 				System.exit(0);
 				break;
 			default:
