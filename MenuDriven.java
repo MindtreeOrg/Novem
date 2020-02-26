@@ -124,7 +124,7 @@ public class MenuDriven {
 				break;
 			case 5:
 				System.out.println("Task completed");
-				System.out.println("Task not completed");
++				System.out.println("BYE")
 				System.exit(0);
 				break;
 			default:
