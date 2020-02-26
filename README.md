@@ -1,3 +1,4 @@
+
 public static int BinarySearch(String[] inputArray, String key) {
 		int min = 0, mid, max = inputArray.length;
 
@@ -14,3 +15,4 @@ public static int BinarySearch(String[] inputArray, String key) {
 
 		return 0;
 	}
+
