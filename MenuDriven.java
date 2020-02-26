@@ -1,6 +1,7 @@
 package abc;
 
-ok hi bye
+ok hi
+ok bye
 
 import java.util.Scanner;
 
