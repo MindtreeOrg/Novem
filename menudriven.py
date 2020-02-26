@@ -1,3 +1,4 @@
+# python-File
 while True:
   n = int(input('''Choose 1--> To check even or odd
   2--> Check prime or not.
@@ -5,7 +6,7 @@ while True:
   4--> Exit: '''))
   if n!=1 and n != 2 and n!= 3 and n!=4:
     print("Invalid input")
-
+#Even  or Odd
   if n== 1:
     def evenodd(a):
       if a%2 == 0:
@@ -14,7 +15,7 @@ while True:
         print("Odd")
     a = int(input("Enter a number to check even or odd: "))
     evenodd(a)
-
+#Prime or Not
   if n == 2:
     def isPrime(b):
       for val in range(2,b):
@@ -25,7 +26,7 @@ while True:
         print("It is a prime:")
     b = int(input("Enter a number to check prime or not.."))
     isPrime(b)
-
+# Finding Square and Cube
   if n == 3:
   
 
