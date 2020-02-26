@@ -1,2 +1,1 @@
-Novem
-Goodnight
+Bye, Goodnight
